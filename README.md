@@ -1,6 +1,6 @@
 # Bryan-s-Nightmare_StandaloneVersion
 
-This game is an extension of The Unity official tutorial-Survival Shooter. I added 3 levels, two alternative weapons (light saber and rifle), more monsters and bosses etc. to the game. 
+This game is an improvements and modification of The Unity official tutorial-Survival Shooter. I added 3 levels, two alternative weapons (light saber and rifle), more monsters and bosses etc. to the game. 
 
 Due to the file size limit of github, i am not able to upload the whole project files but only the scripts.
 
